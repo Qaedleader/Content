@@ -26,6 +26,16 @@ Total: 850 files, about 142 MB.
 - `npx tsc --noEmit` in `_BRAND_SYSTEM`: **passed**. No build was run.
 - Repository visibility and settings were not changed.
 
-## Remote verification
+## Remote verification (after the push)
 
-See the section appended after the push.
+- **Push:** `git push origin main` → `44b2677..d86c08c  main -> main`. It was a normal fast-forward, not a force-push. GitHub warned that `RAM_GOLD_FINAL_CINEMATIC.mp4` (67.10 MiB) is above its *recommended* 50 MB; it is below the 100 MB hard limit.
+- **Branch:** `git ls-remote origin refs/heads/main` = `d86c08c6e9745a9890e9049ec37d283801eed9ca` = local `HEAD`.
+- **Contents:** the GitHub API tree of commit `d86c08c` (not truncated) lists **850 blobs**, and their paths and blob SHA-1s are **identical** to the local `git ls-tree -r HEAD`. That includes both reference videos (50,545,677 B and 70,354,493 B), the thumbnails, the brand fonts, `_BRAND_SYSTEM` source and configuration, the handbook and the README.
+- **Nothing left unpushed:** `git status --porcelain` is empty, so no eligible file is left uncommitted.
+- **Git LFS:** not used, because no file is over 100 MB.
+- **Visibility:** still `public`, unchanged.
+- **Portability (static review only, no build):**
+  - `npm ci` + `npx tsc --noEmit` reproduce the TypeScript environment from `package-lock.json`.
+  - The remaining external requirements are documented in the handbook (§G.5, §I): Node 22, Python 3.11 with numpy/scipy/soundfile/faster-whisper/pillow, FFmpeg 7, the hardcoded `D:/Content/...` tool paths, and the per-episode media and narration that are not in the repository.
+
+This report was committed and pushed in a follow-up commit.
