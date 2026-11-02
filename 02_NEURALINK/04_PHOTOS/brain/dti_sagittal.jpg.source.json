@@ -1,0 +1,20 @@
+{
+ "page": "https://commons.wikimedia.org/wiki/File:DTI-sagittal-fibers.jpg",
+ "url": "https://upload.wikimedia.org/wikipedia/commons/8/82/DTI-sagittal-fibers.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "width": 1021,
+ "height": 952,
+ "mime": "image/jpeg",
+ "licence": "CC BY-SA 3.0",
+ "licence_url": "http://creativecommons.org/licenses/by-sa/3.0/",
+ "author": "Thomas Schultz",
+ "credit": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+ "attribution_required": "true",
+ "usage_terms": "Creative Commons Attribution-Share Alike 3.0",
+ "description": "Visualization of a <a href=\"https://en.wikipedia.org/wiki/Diffusion_tensor_imaging\" class=\"extiw\" title=\"w:Diffusion tensor imaging\">DTI measurement</a> of a human brain. Depicted are reconstructed fiber tracts that run through the mid-sagittal plane. Especially prominent are the U-shaped fibers that connect the two hemispheres through the corpus callosum (the fibers come out of the image plane and consequently bend towards the top) and the fiber tracts that descend toward the spine (blue, within the image plane)",
+ "key": "dti_sagittal",
+ "what": "DTI tractography sagittal",
+ "final_url": "https://upload.wikimedia.org/wikipedia/commons/8/82/DTI-sagittal-fibers.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "bytes": 301162,
+ "sha256": "099e82a8843076de317284f481324ac823a52f7ad5f79588c3701d39e39a5899",
+ "fetched": "2026-10-18T04:12:05"
+}

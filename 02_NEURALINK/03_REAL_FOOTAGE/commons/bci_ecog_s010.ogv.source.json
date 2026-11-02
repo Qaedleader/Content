@@ -1,0 +1,20 @@
+{
+ "page": "https://commons.wikimedia.org/wiki/File:An-Electrocorticographic-Brain-Interface-in-an-Individual-with-Tetraplegia-pone.0055344.s010.ogv",
+ "url": "https://upload.wikimedia.org/wikipedia/commons/4/48/An-Electrocorticographic-Brain-Interface-in-an-Individual-with-Tetraplegia-pone.0055344.s010.ogv?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "width": 1280,
+ "height": 720,
+ "mime": "application/ogg",
+ "licence": "CC BY 2.5",
+ "licence_url": "https://creativecommons.org/licenses/by/2.5",
+ "author": "Wang W, Collinger J, Degenhart A, Tyler-Kabara E, Schwartz A, Moran D, Weber D, Wodlinger B, Vinjamuri R, Ashmore R, Kelly J, Boninger M",
+ "credit": "Movie S6 from <cite style=\"font-style:normal\">Wang W, Collinger J, Degenhart A, Tyler-Kabara E, Schwartz A, Moran D, Weber D, Wodlinger B, Vinjamuri R, Ashmore R, Kelly J, Boninger M (2013). \"<a rel=\"nofollow\" class=\"external text\" href=\"https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3566209\">An Electrocorticographic Brain Interface in an Individual with Tetraplegia</a>\". <i>PLOS ONE</i>. <span lang=\"en\" dir=\"ltr\"><a href=\"https://en.wikipedia.org/wiki/Digital_object_identifier\" class=\"extiw\" title=\"en:Digital object identifier\">DOI</a></span>:<a rel=\"nofollow\" class=\"external text\" href=\"https://doi.org/10.1371/journal.pone.0055344\">10.1371/journal.pone.0055344</a>. <span lang=\"en\" dir=\"ltr\"><a href=\"https://en.wikipedia.org/wiki/PubMed\" class=\"extiw\" title=\"en:PubMed\"><span lang=\"en\" dir=\"ltr\">PMID</span></a></span> <a rel=\"nofollow\" class=\"external text\" href=\"https://www.ncbi.nlm.nih.gov/pubmed/23405137\">23405137</a>. <span lang=\"en\" dir=\"ltr\"><a href=\"https://en.wikipedia.org/wiki/PubMed_Central\" class=\"extiw\" title=\"en:PubMed Central\"><span lang=\"en\" dir=\"ltr\">PMC</span></a></span>: <a rel=\"nofollow\" class=\"external text\" href=\"https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3566209\">3566209</a>.</cite>",
+ "attribution_required": "true",
+ "usage_terms": "Creative Commons Attribution 2.5",
+ "description": "Brain control of 3D prosthetic arm movement (touching hands). This movie was recorded when the participant controlled the 3D movement of a prosthetic arm to touch hands with another individual in our research lab. Re-published with permission from UPMC (University of Pittsburgh Medical Center).",
+ "key": "bci_ecog_s010",
+ "what": "ECoG BCI study video",
+ "final_url": "https://upload.wikimedia.org/wikipedia/commons/4/48/An-Electrocorticographic-Brain-Interface-in-an-Individual-with-Tetraplegia-pone.0055344.s010.ogv?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "bytes": 4042334,
+ "sha256": "1b58f47322599448a5e41de2efba6e4377cbd250bb187684f6ac4d0ac370848e",
+ "fetched": "2026-10-18T04:11:26"
+}

@@ -1,0 +1,20 @@
+{
+ "page": "https://commons.wikimedia.org/wiki/File:Deep_brain_stimulation_in_a_Parkinson%27s_Disease_patient.png",
+ "url": "https://upload.wikimedia.org/wikipedia/commons/6/65/Deep_brain_stimulation_in_a_Parkinson%27s_Disease_patient.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "width": 7080,
+ "height": 3720,
+ "mime": "image/png",
+ "licence": "CC BY-SA 4.0",
+ "licence_url": "https://creativecommons.org/licenses/by-sa/4.0",
+ "author": "<a href=\"//commons.wikimedia.org/w/index.php?title=User:Andreashorn&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"User:Andreashorn (page does not exist)\">Andreashorn</a>",
+ "credit": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+ "attribution_required": "true",
+ "usage_terms": "Creative Commons Attribution-Share Alike 4.0",
+ "description": "Two deep brain stimulation electrodes with target subthalamic nucleus for treatment of Parkinson's Disease are visualized. An electric field with amplitude of 3V is modeled for monopolar stimulation on the second lowermost contact, bilaterally. The E-field calculated to model the voltage distribution is visualized by white arrows and was modeled using the finite element method.",
+ "key": "dbs_render",
+ "what": "DBS electrodes render",
+ "final_url": "https://upload.wikimedia.org/wikipedia/commons/6/65/Deep_brain_stimulation_in_a_Parkinson%27s_Disease_patient.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "bytes": 5740814,
+ "sha256": "94cc1814f41d8208d725ba9a8655cac5e29c22c3ecbf20f1c59fa99ed2f88558",
+ "fetched": "2026-10-18T04:11:35"
+}

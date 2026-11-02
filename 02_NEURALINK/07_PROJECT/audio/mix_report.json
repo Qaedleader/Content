@@ -1,0 +1,10 @@
+{
+ "sample_rate": 44100,
+ "samples": 3138496,
+ "duration_s": 71.1677097505669,
+ "master_gain_linear": 0.7943395082110154,
+ "master_gain_db": -1.9998767265691095,
+ "mix_true_peak_dbtp_before_gain": 0.9998767265691101,
+ "vo_sample_peak_dbfs": 0.1917475461959839,
+ "note": "final_mix = master_gain * (narration + music + sfx); narration samples unaltered before the scalar gain."
+}

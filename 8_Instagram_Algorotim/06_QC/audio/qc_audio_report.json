@@ -1,0 +1,16 @@
+{
+ "source_samples": 2118592,
+ "source_seconds": 48.04063492063492,
+ "output_audio_samples": 2120704,
+ "output_audio_seconds": 48.088526077097505,
+ "stem_equals_source_decode_bitexact": true,
+ "stem_md5": "e35ec1cfea9bd193c56391839198cdfd",
+ "source_decode_md5": "e35ec1cfea9bd193c56391839198cdfd",
+ "lag_samples": 0,
+ "aac_vs_mix_SNR_dB": 40.63052177429199,
+ "last_words_corr": 0.9993002019207785,
+ "voice_presence_full": true,
+ "source_sha256_after": "3930b05056adfb2a6dfb0c4ecc4aa4cb30ef427bcbda1de00672844a64aa6b01",
+ "source_sha256_before": "3930b05056adfb2a6dfb0c4ecc4aa4cb30ef427bcbda1de00672844a64aa6b01",
+ "source_untouched": true
+}

@@ -1,0 +1,42 @@
+{
+ "streams": {
+  "with_audio": [
+   "Stream #0:0[0x1](und): Video: h264 (High) (avc1 / 0x31637661), yuv420p(tv, bt709/unknown/unknown, progressive), 1080x1920 [SAR 1:1 DAR 9:16], 8015 kb/s, 30 fps, 30 tbr, 15360 tbn (default)",
+   "Stream #0:1[0x2](und): Audio: aac (LC) (mp4a / 0x6134706D), 44100 Hz, stereo, fltp, 244 kb/s (default)"
+  ],
+  "silent": [
+   "Stream #0:0[0x1](und): Video: h264 (High) (avc1 / 0x31637661), yuv420p(tv, bt709/unknown/unknown, progressive), 1080x1920 [SAR 1:1 DAR 9:16], 8015 kb/s, 30 fps, 30 tbr, 15360 tbn (default)"
+  ],
+  "silent_audio_streams": 0,
+  "with_audio_audio_streams": 1,
+  "durations": {
+   "with_audio": "00:00:48.90",
+   "silent": "00:00:48.90"
+  }
+ },
+ "video": {
+  "frames_with_audio": 1467,
+  "frames_silent": 1467,
+  "packets_identical": true,
+  "decoded_frames_identical": true
+ },
+ "with_audio": {
+  "source_decoded_samples": 2155456,
+  "mix_decoded_samples": 2156544,
+  "mix_covers_full_narration": true,
+  "narration_stem_equals_source_decode": true,
+  "voice_gain_estimate": 0.9992717728667323,
+  "added_layers_rel_voice_db": -24.045682860157214,
+  "aac_coding_error_rel_voice_db": -43.83434671563297,
+  "sync_lag_samples": {
+   "1.0": 0,
+   "24.0": 0,
+   "47.0": 0
+  },
+  "last_word_voice_rms_db": -24.26349650740483,
+  "last_word_mix_rms_db": -24.187732932170498
+ },
+ "source_sha256_after": "d52b1a63850ba3e35d52243a90d0e168f4ed0de848cbda359b9a3e162cdd8aa3",
+ "source_sha256_before": "d52b1a63850ba3e35d52243a90d0e168f4ed0de848cbda359b9a3e162cdd8aa3",
+ "source_unchanged": true
+}

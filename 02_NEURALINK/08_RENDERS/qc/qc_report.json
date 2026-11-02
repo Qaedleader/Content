@@ -1,0 +1,96 @@
+{
+ "file": "../08_RENDERS/NEURALINK_FINAL_CINEMATIC.mp4",
+ "bytes": 338568847,
+ "streams": [
+  "Duration: 00:01:11.20, start: 0.000000, bitrate: 38041 kb/s",
+  "Stream #0:0[0x1](und): Video: h264 (High) (avc1 / 0x31637661), yuv420p(progressive), 1080x1920, 37733 kb/s, 30 fps, 30 tbr, 15360 tbn (default)",
+  "Stream #0:1[0x2](und): Audio: aac (LC) (mp4a / 0x6134706D), 44100 Hz, stereo, fltp, 300 kb/s (default)"
+ ],
+ "decode_errors": "none",
+ "cv2_fps": 30.0,
+ "cv2_size": [
+  1080,
+  1920
+ ],
+ "frames_decoded": 2136,
+ "duration_video_s": 71.2,
+ "black_frames(mean<6)": [],
+ "frozen_runs(>=12 near-identical frames)": [],
+ "luma_mean_min_max": [
+  8.315217018127441,
+  200.7366485595703
+ ],
+ "audio_sr": 44100,
+ "audio_channels": 2,
+ "audio_duration_s": 71.16916099773243,
+ "vo_duration_s": 71.1677097505669,
+ "lag_samples_audio_vs_vo": 0,
+ "lag_samples_audio_vs_mix": 0,
+ "corr_audio_vs_final_mix": 0.9999761510331593,
+ "corr_audio_vs_vo_full": 0.9824968606489188,
+ "corr_audio_vs_vo_per_5s": [
+  [
+   0.0,
+   0.957
+  ],
+  [
+   5.0,
+   0.975
+  ],
+  [
+   10.0,
+   0.975
+  ],
+  [
+   15.0,
+   0.981
+  ],
+  [
+   20.0,
+   0.994
+  ],
+  [
+   25.0,
+   0.987
+  ],
+  [
+   30.0,
+   0.993
+  ],
+  [
+   35.0,
+   0.996
+  ],
+  [
+   40.0,
+   0.976
+  ],
+  [
+   45.0,
+   0.981
+  ],
+  [
+   50.0,
+   0.985
+  ],
+  [
+   55.0,
+   0.966
+  ],
+  [
+   60.0,
+   0.993
+  ],
+  [
+   65.0,
+   0.989
+  ],
+  [
+   70.0,
+   0.898
+  ]
+ ],
+ "loudness_summary": "Summary: Integrated loudness: I: -15.2 LUFS Threshold: -25.3 LUFS Loudness range: LRA: 2.1 LU Threshold: -35.3 LUFS LRA low: -16.4 LUFS LRA high: -14.2 LUFS True peak: Peak: -1.0 dBFS [out#0/null @ 000001798fd7d6c0] video:0KiB audio:12260KiB subtitle:0KiB other streams:0KiB global headers:0KiB muxing overhead: unknown size=N/A time=00:01:11.16 bitrate=N/A speed= 145x",
+ "sample_peak_dbfs": -1.0416797056176925,
+ "clipped_samples(|x|>=0.999)": 0
+}

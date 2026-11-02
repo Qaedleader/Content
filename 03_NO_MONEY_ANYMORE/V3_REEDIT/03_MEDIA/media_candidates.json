@@ -1,0 +1,34 @@
+{
+ "n_rolling_mill": {
+  "file": "\"Hot\" Rolling Some Steel (2267617927).jpg",
+  "use": "steel rolling (metal parts)"
+ },
+ "n_power_station": {
+  "file": "Raikheda power station IN 2015 (Ctpp).jpg",
+  "use": "thermal power station (energy)"
+ },
+ "n_switchyard": {
+  "file": "Switchyard of electric substation 750kV.png",
+  "use": "750 kV switchyard (grid)"
+ },
+ "n_waymo": {
+  "file": "Waymo self-driving car front view.gk.jpg",
+  "use": "driverless car in service today (delivery/autonomy)"
+ },
+ "n_greenhouse": {
+  "file": "Hydroponic g12.jpg",
+  "use": "hydroponic greenhouse (food)"
+ },
+ "n_knitting": {
+  "file": "Circular Knitic circular knitting machine DSCF2170.jpg",
+  "use": "circular knitting machine (clothing)"
+ },
+ "n_cranes": {
+  "file": "11 Liebherr construction crane at a Strabag company construction site of apartment building in Budapest, Hungary.jpg",
+  "use": "construction cranes (housing)"
+ },
+ "n_kuka_line": {
+  "file": "Линия сварки боковой стены вагона. «Тихвинский вагоностроительный завод».jpg",
+  "use": "robot welding line (robots in manufacturing)"
+ }
+}

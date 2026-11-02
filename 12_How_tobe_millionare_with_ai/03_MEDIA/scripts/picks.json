@@ -1,0 +1,182 @@
+[
+ {
+  "set": "fin",
+  "i": 7,
+  "title": "File:NEW YORK STOCK EXCHANGE 20240521.jpg",
+  "lic": "CC BY-SA 4.0"
+ },
+ {
+  "set": "fin",
+  "i": 2,
+  "title": "File:Wall Street - New York Stock Exchange.jpg",
+  "lic": "CC BY-SA 3.0"
+ },
+ {
+  "set": "fin",
+  "i": 4,
+  "title": "File:New York City (New York, USA), Wall Street -- 2012 -- 6614.jpg",
+  "lic": "CC BY-SA 4.0"
+ },
+ {
+  "set": "fin",
+  "i": 18,
+  "title": "File:Wall Street Sign April 2022.jpg",
+  "lic": "CC BY-SA 4.0"
+ },
+ {
+  "set": "fin",
+  "i": 25,
+  "title": "File:E-ticker.jpg",
+  "lic": "Public domain"
+ },
+ {
+  "set": "fin",
+  "i": 24,
+  "title": "File:Market centre in Tokyo stock exchange.jpg",
+  "lic": "CC BY 2.0"
+ },
+ {
+  "set": "fin",
+  "i": 34,
+  "title": "File:Nasdaq MarketSite (51494550508).jpg",
+  "lic": "CC BY 2.0"
+ },
+ {
+  "set": "fin",
+  "i": 27,
+  "title": "File:Qtstalker candlestick chart.png",
+  "lic": "CC0"
+ },
+ {
+  "set": "fin",
+  "i": 8,
+  "title": "File:NYSE Advanced Trading Floor.jpg",
+  "lic": "CC BY-SA 3.0"
+ },
+ {
+  "set": "fin",
+  "i": 3,
+  "title": "File:New York Stock Exchange August 2017 02.jpg",
+  "lic": "CC BY-SA 4.0"
+ },
+ {
+  "set": "tech",
+  "i": 10,
+  "title": "File:Visual Studio Code 1.18.1 on Windows10.jpg",
+  "lic": "MIT"
+ },
+ {
+  "set": "tech",
+  "i": 9,
+  "title": "File:Visual studio code updated.png",
+  "lic": "CC BY-SA 4.0"
+ },
+ {
+  "set": "tech",
+  "i": 18,
+  "title": "File:RustCodeOnScreen.jpg",
+  "lic": "CC0"
+ },
+ {
+  "set": "tech",
+  "i": 22,
+  "title": "File:Pexels-luis-gomes-546819.jpg",
+  "lic": "CC0"
+ },
+ {
+  "set": "tech",
+  "i": 30,
+  "title": "File:Nvidia DGX-B200-HGX.jpg",
+  "lic": "CC BY-SA 4.0"
+ },
+ {
+  "set": "tech",
+  "i": 29,
+  "title": "File:Nvidia DGX GB200.jpg",
+  "lic": "CC BY-SA 4.0"
+ },
+ {
+  "set": "tech",
+  "i": 26,
+  "title": "File:Nvidia DGX front view dllu.jpg",
+  "lic": "CC BY-SA 4.0"
+ },
+ {
+  "set": "tech",
+  "i": 34,
+  "title": "File:DARPA SyNAPSE 16 Chip Board.jpg",
+  "lic": "Public domain"
+ },
+ {
+  "set": "tech",
+  "i": 13,
+  "title": "File:Visual Studio Code 0.10.1 on Windows 7, with search.png",
+  "lic": "MIT"
+ },
+ {
+  "set": "biz",
+  "i": 2,
+  "title": "File:Ocado warehouse bots.jpg",
+  "lic": "CC BY-SA 4.0"
+ },
+ {
+  "set": "biz",
+  "i": 0,
+  "title": "File:Amazon warehouse robot 2020.JPG",
+  "lic": "CC BY-SA 4.0"
+ },
+ {
+  "set": "biz",
+  "i": 14,
+  "title": "File:Kdenlive4.0.2-es.png",
+  "lic": "CC BY 3.0"
+ },
+ {
+  "set": "biz",
+  "i": 23,
+  "title": "File:Blender 4.3.2 screenshot.png",
+  "lic": "CC0"
+ },
+ {
+  "set": "biz",
+  "i": 21,
+  "title": "File:Blender 2.90.1 screenshot.png",
+  "lic": "CC0"
+ },
+ {
+  "set": "biz",
+  "i": 10,
+  "title": "File:Kdenlive 21.08.png",
+  "lic": "CC BY-SA 4.0"
+ },
+ {
+  "set": "V_vid",
+  "i": 17,
+  "title": "File:Data Center Tour & Technical Deep Dive into the Power, Data and Cooling Infrastructure!.webm",
+  "lic": "CC BY 3.0"
+ },
+ {
+  "set": "V_vid",
+  "i": 16,
+  "title": "File:What's Inside This Decommissioned Data Center-.webm",
+  "lic": "CC BY 3.0"
+ },
+ {
+  "set": "V_vid",
+  "i": 27,
+  "title": "File:Why Programming is the Best Job in 2021.webm",
+  "lic": "CC BY 3.0"
+ },
+ {
+  "set": "V_vid",
+  "i": 36,
+  "title": "File:Client Project Hashcat Testing With an AMD Epyc Supermicro Nvidia GPU Server Using Proxmox (Lawrence Systems) 01.webm",
+  "lic": "CC BY 3.0"
+ },
+ {
+  "set": "V_vid",
+  "i": 32,
+  "title": "File:A Simple HTTP Server (720p).webm",
+  "lic": "CC BY-SA 4.0"
+ }
+]

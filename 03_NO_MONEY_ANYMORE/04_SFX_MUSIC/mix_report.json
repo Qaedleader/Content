@@ -1,0 +1,12 @@
+{
+ "voice_integrated_LUFS": -18.0,
+ "voice_true_peak_dBTP": 0.1,
+ "master_gain_dB": -1.1999999999999993,
+ "final_integrated_LUFS": -18.9,
+ "final_true_peak_dBTP": -1.0,
+ "cues": 140,
+ "samples": 2623950,
+ "seconds": 59.5,
+ "voice_samples": 2581440,
+ "note": "voice samples are the original decode; only the constant master gain above is applied to the whole mix"
+}

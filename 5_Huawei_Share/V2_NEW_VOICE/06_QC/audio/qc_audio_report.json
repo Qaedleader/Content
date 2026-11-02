@@ -1,0 +1,21 @@
+{
+ "source_decoded_samples": 2028480,
+ "source_decoded_seconds": 45.99727891156463,
+ "source_pcm_md5": "18b9478e11fc73add3cad6a6a080e26e",
+ "stem_pcm_md5_first_n": "18b9478e11fc73add3cad6a6a080e26e",
+ "stem_tail_after_source_is_silence": true,
+ "stem_tail_samples": 120,
+ "narration_stem_bit_identical_to_source_decode": true,
+ "mix_minus_stems_max_abs": 0.0,
+ "final_decoded_seconds": 46.021950113378686,
+ "sync_lag_samples_start": 0,
+ "sync_lag_samples_middle": 0,
+ "sync_lag_samples_end": 0,
+ "speech_windows": 107,
+ "nonvoice_vs_voice_dB_median": -25.34982681274414,
+ "nonvoice_vs_voice_dB_max": -10.783162117004395,
+ "final_sample_peak": 1.002084493637085,
+ "final_samples_over_1.0": 4,
+ "source_sha256_after": "815e61c7d9b6b8d47c553a1baf34d20fb0ede05d84b9551d749aab031f7a4628",
+ "copy_sha256": "815e61c7d9b6b8d47c553a1baf34d20fb0ede05d84b9551d749aab031f7a4628"
+}

@@ -1,0 +1,133 @@
+# =============================================================================
+# Content production system — public GitHub backup
+# Policy: keep the reusable production SYSTEM (code, configs, docs, brand fonts and
+# textures, licence sidecars) plus two finished reference videos. Do NOT commit raw
+# media, licensed stock, private voice recordings, environments, tools or renders.
+# The full rationale is in CONTENT_PRODUCTION_HANDBOOK.md §I.
+# =============================================================================
+
+# ---- secrets (never commit) --------------------------------------------------
+.env
+.env.*
+*.pem
+*.key
+*.p12
+*.pfx
+credentials*.json
+service-account*.json
+client_secret*.json
+token*.json
+
+# ---- environments, dependencies, caches -------------------------------------
+node_modules/
+.venv/
+venv/
+__pycache__/
+*.pyc
+.models/
+.cache/
+.remotion/
+.claude/
+
+# ---- generated output, renders, temporary files -----------------------------
+out/
+build/
+dist/
+chunks/
+chunks_*/
+_upload_parts/
+backup_pre_refinement*/
+*.tmp
+*.log
+Thumbs.db
+desktop.ini
+
+# ---- downloaded software (Blender, installers) ------------------------------
+**/tools/blender/
+**/tools/blender_dl/
+*.exe
+*.dll
+*.pdb
+*.msi
+*.zip
+*.7z
+*.rar
+*.zst
+
+# ---- third-party reference material (not ours to redistribute) --------------
+/Familiar style/
+/00_VISUAL_IDENTITY_RESEARCH/contact_sheets/
+/00_VISUAL_IDENTITY_RESEARCH/motion_strips/
+/00_VISUAL_IDENTITY_RESEARCH/analysis_data/reference_video_words_whisper.json
+**/03_MEDIA/web/
+**/03_MEDIA/review/
+**/source_models/
+**/presskit/
+**/footage_in/
+
+# ---- raw downloaded media: keep only the licence sidecars (*.json) ----------
+**/raw/**
+!**/raw/**/
+!**/raw/**/*.json
+
+# ---- Remotion episode media (licensed copies, logos, private narration) -----
+/_BRAND_SYSTEM/public/episodes/
+
+# ---- all media / binary assets, globally ------------------------------------
+*.mp4
+*.m4a
+*.webm
+*.mov
+*.mkv
+*.avi
+*.wav
+*.flac
+*.mp3
+*.aac
+*.ogg
+*.ogv
+*.opus
+*.jpg
+*.jpeg
+*.png
+*.gif
+*.webp
+*.tif
+*.tiff
+*.exr
+*.psd
+*.svg
+*.html
+*.bin
+*.npy
+*.npz
+*.pkl
+*.pickle
+*.blend
+*.blend1
+*.obj
+*.fbx
+*.glb
+*.mtl
+*.mo
+*.cube
+*.ttf
+*.otf
+*.framemd5
+
+# ---- whitelist: brand assets (all original or SIL OFL 1.1) -------------------
+!/_BRAND_SYSTEM/public/brand/fonts/*.ttf
+!/_BRAND_SYSTEM/public/brand/textures/*.png
+!/00_VISUAL_IDENTITY_RESEARCH/palette/palette_board.png
+
+# ---- whitelist: finished reference videos + thumbnails (max two videos) -----
+!/12_How_tobe_millionare_with_ai/07_OUTPUT/Millionaire_AI_Final_With_Audio.mp4
+!/12_How_tobe_millionare_with_ai/07_OUTPUT/Millionaire_AI_Thumbnail.png
+!/12_How_tobe_millionare_with_ai/07_OUTPUT/thumbnail_alternatives/*.png
+!/12_How_tobe_millionare_with_ai/06_QC/final_sheet.jpg
+!/11_RAM_GOLD/07_OUTPUT/RAM_GOLD_FINAL_CINEMATIC.mp4
+!/11_RAM_GOLD/07_OUTPUT/RAM_GOLD_THUMBNAIL.png
+!/11_RAM_GOLD/06_QC/final_sheet.jpg
+
+# ---- QC hash dumps (large, regenerable) ----
+*framemd5*.txt

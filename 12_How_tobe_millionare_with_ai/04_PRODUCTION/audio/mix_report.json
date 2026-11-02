@@ -1,0 +1,19 @@
+{
+ "voice_integrated_LUFS": -13.6,
+ "voice_true_peak_dBTP": 0.3,
+ "music_integrated_LUFS": -38.6,
+ "sfx_integrated_LUFS": -55.6,
+ "sfx_true_peak_dBTP": -40.0,
+ "mix_integrated_LUFS": -13.6,
+ "mix_true_peak_dBTP": 0.3,
+ "music_below_voice_LU": 25.0,
+ "sfx_below_voice_LU": 42.0,
+ "voice_sample_peak": 1.031481385231018,
+ "mix_sample_peak": 1.031481385231018,
+ "samples_where_added_layers_exceed_ceiling": 0,
+ "anticlip_min_gain": -6.623489635547809e-17,
+ "sfx_cues": 39,
+ "seconds": 48.9,
+ "voice_samples": 2155456,
+ "note": "narration samples = original decode at unity gain; only music/SFX are ducked and gain-limited"
+}

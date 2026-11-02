@@ -1,0 +1,713 @@
+{
+ "_about": "Footage decision list. Still slots: kf rows = [t_rel, cx, cy, zoom, rot_deg]; video slots are cut/reframed by prep_footage.py. Sources and licences: ASSET_SOURCES.md.",
+ "A1a": {
+  "type": "still",
+  "file": "footage_in/tesla_presskit/stills/Roadster_53.jpg",
+  "clamp": false,
+  "ease": "out",
+  "kf": [
+   [
+    0,
+    0.48,
+    0.47,
+    1.0,
+    0
+   ],
+   [
+    1.52,
+    0.48,
+    0.466,
+    1.1,
+    0
+   ]
+  ],
+  "credit": "Courtesy of Tesla, Inc.",
+  "credit2": "Roadster event · Oct 15, 2026",
+  "tag": "صورة حقيقية من العرض",
+  "real": true
+ },
+ "A1b": {
+  "type": "still",
+  "file": "footage_in/tesla_presskit/stills/Roadster_57.jpg",
+  "clamp": false,
+  "whip": "right",
+  "kf": [
+   [
+    0,
+    0.6,
+    0.407,
+    1.15,
+    -3
+   ],
+   [
+    0.7,
+    0.55,
+    0.4,
+    1.25,
+    0
+   ]
+  ],
+  "credit": "Courtesy of Tesla, Inc.",
+  "credit2": "Roadster event · Oct 15, 2026",
+  "tag": "صورة حقيقية من العرض",
+  "real": true
+ },
+ "A1c": {
+  "type": "still",
+  "file": "footage_in/tesla_presskit/stills/Roadster_55.jpg",
+  "clamp": false,
+  "whip": "up",
+  "kf": [
+   [
+    0,
+    0.5,
+    0.254,
+    2.0,
+    -4
+   ],
+   [
+    0.72,
+    0.5,
+    0.25,
+    2.3,
+    0
+   ]
+  ],
+  "credit": "Courtesy of Tesla, Inc.",
+  "credit2": "Roadster event · Oct 15, 2026",
+  "tag": "صورة حقيقية من العرض",
+  "real": true
+ },
+ "A2a": {
+  "type": "still",
+  "file": "footage_in/tesla_presskit/stills/Roadster_58.jpg",
+  "clamp": false,
+  "ease": "out",
+  "kf": [
+   [
+    0,
+    0.57,
+    0.406,
+    1.5,
+    0
+   ],
+   [
+    1.38,
+    0.56,
+    0.558,
+    1.0,
+    0
+   ]
+  ],
+  "credit": "Courtesy of Tesla, Inc.",
+  "credit2": "Roadster event · Oct 15, 2026",
+  "tag": "صورة حقيقية من العرض",
+  "real": true
+ },
+ "A2a_freeze": {
+  "type": "still",
+  "file": "footage_in/tesla_presskit/stills/Roadster_58.jpg",
+  "clamp": false,
+  "flash": [
+   0.0
+  ],
+  "kf": [
+   [
+    0,
+    0.565,
+    0.61,
+    1.08,
+    0
+   ],
+   [
+    1.52,
+    0.565,
+    0.6,
+    1.14,
+    0
+   ]
+  ],
+  "credit": "Courtesy of Tesla, Inc.",
+  "credit2": "Roadster event · Oct 15, 2026",
+  "tag": "صورة حقيقية من العرض",
+  "real": true
+ },
+ "A1d": {
+  "type": "still",
+  "file": "footage_in/tesla_presskit/stills/Roadster_56.jpg",
+  "clamp": false,
+  "kf": [
+   [
+    0,
+    0.4,
+    0.45,
+    1.0,
+    0
+   ],
+   [
+    1.48,
+    0.4,
+    0.45,
+    1.08,
+    2
+   ]
+  ],
+  "credit": "Courtesy of Tesla, Inc.",
+  "credit2": "Roadster event · Oct 15, 2026",
+  "tag": "صورة حقيقية من العرض",
+  "real": true
+ },
+ "B1": {
+  "src": "footage_in/pexels/B1_vacuum_closeup_pexels9472818.mp4",
+  "tc_in": 1.95,
+  "dur": 2.06,
+  "mode": "crop",
+  "cx": 0.5,
+  "cy": 0.5,
+  "zoom": 1.0,
+  "credit": "Pexels · Liliana Drew",
+  "tag": "تشبيه توضيحي",
+  "track": [
+   [
+    0,
+    275,
+    1200
+   ],
+   [
+    0.27,
+    360,
+    750
+   ],
+   [
+    0.57,
+    390,
+    225
+   ],
+   [
+    0.87,
+    410,
+    175
+   ],
+   [
+    1.13,
+    455,
+    425
+   ],
+   [
+    1.43,
+    525,
+    750
+   ],
+   [
+    1.73,
+    545,
+    1075
+   ],
+   [
+    2.03,
+    690,
+    1450
+   ]
+  ]
+ },
+ "A1e": {
+  "type": "still",
+  "file": "footage_in/tesla_presskit/stills/Roadster_55.jpg",
+  "clamp": false,
+  "kf": [
+   [
+    0,
+    0.56,
+    0.39,
+    0.85,
+    0
+   ],
+   [
+    1.46,
+    0.56,
+    0.38,
+    0.9,
+    0
+   ]
+  ],
+  "credit": "Courtesy of Tesla, Inc.",
+  "credit2": "Roadster event · Oct 15, 2026",
+  "tag": "صورة حقيقية من العرض",
+  "real": true
+ },
+ "A2b": {
+  "type": "still",
+  "file": "footage_in/tesla_presskit/stills/Roadster_54.jpg",
+  "clamp": false,
+  "kf": [
+   [
+    0,
+    0.3,
+    0.62,
+    1.15,
+    0
+   ],
+   [
+    1.74,
+    0.25,
+    0.679,
+    1.6,
+    0
+   ]
+  ],
+  "credit": "Courtesy of Tesla, Inc.",
+  "credit2": "Roadster event · Oct 15, 2026",
+  "tag": "صورة حقيقية من العرض",
+  "real": true
+ },
+ "A2c": {
+  "type": "still",
+  "file": "footage_in/tesla_presskit/stills/Roadster_59.jpg",
+  "clamp": false,
+  "whip": "left",
+  "kf": [
+   [
+    0,
+    0.55,
+    0.418,
+    1.15,
+    -3
+   ],
+   [
+    0.71,
+    0.56,
+    0.418,
+    1.2,
+    3
+   ]
+  ],
+  "credit": "Courtesy of Tesla, Inc.",
+  "credit2": "Roadster event · Oct 15, 2026",
+  "tag": "صورة حقيقية من العرض",
+  "real": true
+ },
+ "C1": {
+  "type": "still",
+  "file": "footage_in/nasa/C1_draco_iss073e0814070.jpg",
+  "clamp": false,
+  "kf": [
+   [
+    0,
+    0.6,
+    0.5,
+    2.3,
+    0
+   ],
+   [
+    1.86,
+    0.605,
+    0.5,
+    2.6,
+    0
+   ]
+  ],
+  "credit": "NASA",
+  "credit2": "SpaceX Dragon Draco thrusters · ISS, Sep 2025",
+  "tag": "مركبة فضائية — صورة ناسا"
+ },
+ "C2": {
+  "src": "footage_in/nasa/C2_artemis1_tracking.mp4",
+  "tc_in": 51.9,
+  "dur": 1.38,
+  "mode": "crop",
+  "cx": 0.48,
+  "cy": 0.5,
+  "zoom": 1.0,
+  "dy": 220,
+  "credit": "NASA",
+  "credit2": "Artemis I launch · Nov 16, 2022",
+  "tag": "للمقارنة — ليست تسلا"
+ },
+ "A6": {
+  "type": "still",
+  "file": "footage_in/tesla_presskit/stills/Roadster_54.jpg",
+  "clamp": false,
+  "kf": [
+   [
+    0,
+    0.42,
+    0.42,
+    0.83,
+    0
+   ],
+   [
+    1.7,
+    0.58,
+    0.42,
+    0.88,
+    0
+   ]
+  ],
+  "credit": "Courtesy of Tesla, Inc.",
+  "credit2": "Roadster event · Oct 15, 2026",
+  "tag": "صورة حقيقية من العرض",
+  "real": true
+ },
+ "D1": {
+  "src": "footage_in/pexels/D1_turns_pexels13866430.mp4",
+  "tc_in": 4.05,
+  "dur": 1.68,
+  "mode": "crop",
+  "zoom": 1.5,
+  "cy": 0.65,
+  "cx": [
+   [
+    0,
+    0.9
+   ],
+   [
+    0.2,
+    0.87
+   ],
+   [
+    0.47,
+    0.81
+   ],
+   [
+    0.73,
+    0.67
+   ],
+   [
+    1.0,
+    0.51
+   ],
+   [
+    1.27,
+    0.3
+   ],
+   [
+    1.68,
+    0.27
+   ]
+  ],
+  "credit": "Pexels · Jaxon Matthew Willis",
+  "speed": 0.75
+ },
+ "A5a": {
+  "type": "still",
+  "file": "footage_in/tesla_presskit/stills/Roadster_94.jpg",
+  "clamp": false,
+  "kf": [
+   [
+    0,
+    0.5,
+    0.311,
+    1.05,
+    0
+   ],
+   [
+    1.66,
+    0.5,
+    0.311,
+    1.15,
+    0
+   ]
+  ],
+  "credit": "Courtesy of Tesla, Inc.",
+  "credit2": "Official press image",
+  "tag": "صورة رسمية من تسلا",
+  "real": true
+ },
+ "A5b": {
+  "type": "still",
+  "file": "footage_in/tesla_presskit/stills/Roadster_95.jpg",
+  "clamp": false,
+  "kf": [
+   [
+    0,
+    0.58,
+    0.4156,
+    1.0,
+    0
+   ],
+   [
+    2.3,
+    0.59,
+    0.42,
+    1.04,
+    0
+   ],
+   [
+    3.13,
+    0.6,
+    0.43,
+    1.12,
+    0
+   ],
+   [
+    4.48,
+    0.6,
+    0.43,
+    1.13,
+    0
+   ]
+  ],
+  "credit": "Courtesy of Tesla, Inc.",
+  "credit2": "Official press image",
+  "tag": "صورة رسمية من تسلا",
+  "real": true
+ },
+ "A2d": {
+  "type": "still",
+  "file": "footage_in/tesla_presskit/stills/Roadster_59.jpg",
+  "clamp": false,
+  "kf": [
+   [
+    0,
+    0.57,
+    0.3,
+    1.3,
+    0
+   ],
+   [
+    0.714,
+    0.57,
+    0.3,
+    1.32,
+    -6.25
+   ],
+   [
+    1.428,
+    0.57,
+    0.3,
+    1.34,
+    0
+   ],
+   [
+    2.142,
+    0.57,
+    0.3,
+    1.36,
+    6.25
+   ],
+   [
+    2.856,
+    0.57,
+    0.3,
+    1.38,
+    0
+   ],
+   [
+    3.02,
+    0.57,
+    0.3,
+    1.385,
+    -2.2
+   ]
+  ],
+  "credit": "Courtesy of Tesla, Inc.",
+  "credit2": "Roadster event · Oct 15, 2026",
+  "tag": "صورة حقيقية من العرض",
+  "real": true
+ },
+ "A3a": {
+  "type": "still",
+  "file": "footage_in/tesla_presskit/stills/Roadster_78.jpg",
+  "clamp": false,
+  "border": "reflect",
+  "kf": [
+   [
+    0,
+    0.49,
+    0.29,
+    0.85,
+    0
+   ],
+   [
+    1.94,
+    0.49,
+    0.29,
+    0.92,
+    0
+   ]
+  ],
+  "credit": "Courtesy of Tesla, Inc.",
+  "credit2": "Official press image",
+  "tag": "صورة رسمية من تسلا",
+  "real": true
+ },
+ "A3b": {
+  "type": "still",
+  "file": "footage_in/tesla_presskit/stills/Roadster_87.jpg",
+  "clamp": false,
+  "border": "reflect",
+  "kf": [
+   [
+    0,
+    0.505,
+    0.831,
+    0.95,
+    0
+   ],
+   [
+    2.9,
+    0.505,
+    0.82,
+    1.0,
+    0
+   ]
+  ],
+  "credit": "Courtesy of Tesla, Inc.",
+  "credit2": "Official press image",
+  "tag": "صورة رسمية من تسلا",
+  "real": true
+ },
+ "A5c": {
+  "type": "still",
+  "file": "footage_in/tesla_presskit/stills/Roadster_73.jpg",
+  "clamp": false,
+  "border": "reflect",
+  "kf": [
+   [
+    0,
+    0.34,
+    0.7375,
+    1.0,
+    0
+   ],
+   [
+    3.36,
+    0.42,
+    0.7375,
+    1.05,
+    0
+   ]
+  ],
+  "credit": "Courtesy of Tesla, Inc.",
+  "credit2": "Official press image",
+  "tag": "صورة رسمية من تسلا",
+  "real": true
+ },
+ "A2e": {
+  "type": "still",
+  "file": "footage_in/tesla_presskit/stills/Roadster_53.jpg",
+  "clamp": false,
+  "kf": [
+   [
+    0,
+    0.48,
+    0.655,
+    1.0,
+    0
+   ],
+   [
+    4.68,
+    0.48,
+    0.64,
+    1.08,
+    0
+   ]
+  ],
+  "credit": "Courtesy of Tesla, Inc.",
+  "credit2": "Roadster event · Oct 15, 2026",
+  "tag": "صورة حقيقية من العرض",
+  "real": true
+ },
+ "A4": {
+  "type": "still",
+  "file": "footage_in/tesla_presskit/stills/Roadster_72.jpg",
+  "clamp": false,
+  "border": "reflect",
+  "seq": [
+   {
+    "t": 0.0,
+    "file": "footage_in/tesla_presskit/stills/Roadster_72.jpg",
+    "kf": [
+     [
+      0,
+      0.55,
+      0.5,
+      1.0,
+      0
+     ],
+     [
+      2.52,
+      0.68,
+      0.5,
+      1.05,
+      0
+     ]
+    ]
+   },
+   {
+    "t": 2.52,
+    "file": "footage_in/tesla_presskit/stills/Roadster_60.jpg",
+    "kf": [
+     [
+      0,
+      0.48,
+      0.5,
+      1.0,
+      0
+     ],
+     [
+      2.36,
+      0.54,
+      0.5,
+      1.06,
+      0
+     ]
+    ]
+   }
+  ],
+  "credit": "Courtesy of Tesla, Inc.",
+  "credit2": "Official press image",
+  "tag": "صورة رسمية من تسلا",
+  "real": true
+ },
+ "A2f": {
+  "type": "still",
+  "file": "footage_in/tesla_presskit/stills/Roadster_58.jpg",
+  "clamp": false,
+  "kf": [
+   [
+    0,
+    0.42,
+    0.517,
+    1.0,
+    0
+   ],
+   [
+    2.66,
+    0.7,
+    0.517,
+    1.04,
+    0
+   ]
+  ],
+  "credit": "Courtesy of Tesla, Inc.",
+  "credit2": "Roadster event · Oct 15, 2026",
+  "tag": "صورة حقيقية من العرض",
+  "real": true
+ },
+ "A3c": {
+  "type": "still",
+  "file": "footage_in/tesla_presskit/stills/Roadster_97.jpg",
+  "clamp": false,
+  "kf": [
+   [
+    0,
+    0.49,
+    0.45,
+    1.0,
+    0
+   ],
+   [
+    3.31,
+    0.49,
+    0.46,
+    1.07,
+    0
+   ]
+  ],
+  "credit": "Courtesy of Tesla, Inc.",
+  "credit2": "Official press image",
+  "tag": "صورة رسمية من تسلا",
+  "real": true
+ }
+}

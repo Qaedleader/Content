@@ -1,0 +1,9 @@
+{
+ "n_braingate":       {"file": "BrainGate.jpg", "use": "real implanted microelectrode array (BrainGate)"},
+ "n_utah_patent":     {"file": "Utah array pat5215088.jpg", "use": "Utah array patent drawing (electrode array)"},
+ "n_flex_bci":        {"file": "Flexible Brain-Computer Interface.jpg", "use": "flexible BCI electrode film"},
+ "n_implant_future":  {"file": "Brain implant of the future.png", "use": "candidate: illustration of a brain implant"},
+ "n_bci_types":       {"file": "Invasive and partially invasive BCIs.png", "use": "candidate: BCI types diagram"},
+ "n_hippocampus_gray":{"q": "Gray739 hippocampus", "use": "hippocampus (memory) anatomical plate"},
+ "n_nl_robot_cat":    {"file": "Neuralink Robot.jpg", "use": "Neuralink surgical robot (same as original production)"}
+}

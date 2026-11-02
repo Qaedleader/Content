@@ -1,0 +1,98 @@
+{
+ "pura_grab": {
+  "frames": 80,
+  "size": [
+   1160,
+   870
+  ],
+  "src": "huawei_pura80-ultra_video_system_system-feature-2-1.mp4",
+  "ss": 0.0,
+  "dur": 2.7,
+  "crop": [
+   330,
+   0,
+   1304,
+   978
+  ]
+ },
+ "pura_release": {
+  "frames": 86,
+  "size": [
+   1160,
+   870
+  ],
+  "src": "huawei_pura80-ultra_video_system_system-feature-2-1.mp4",
+  "ss": 4.8,
+  "dur": 2.9,
+  "crop": [
+   420,
+   0,
+   1304,
+   978
+  ]
+ },
+ "m70_grab": {
+  "frames": 46,
+  "size": [
+   1160,
+   870
+  ],
+  "src": "huawei_mate70_video_ai_ai-feature-2.mp4",
+  "ss": 1.7,
+  "dur": 1.56,
+  "crop": [
+   822,
+   0,
+   1866,
+   1400
+  ]
+ },
+ "m70_receive": {
+  "frames": 78,
+  "size": [
+   1160,
+   870
+  ],
+  "src": "huawei_mate70_video_ai_ai-feature-2.mp4",
+  "ss": 3.36,
+  "dur": 2.64,
+  "crop": [
+   0,
+   0,
+   1866,
+   1400
+  ]
+ },
+ "m80_grab": {
+  "frames": 59,
+  "size": [
+   1160,
+   870
+  ],
+  "src": "huawei_mate80_video_system_system-feature-3-2.mp4",
+  "ss": 1.3,
+  "dur": 2.0,
+  "crop": null
+ },
+ "m80_release": {
+  "frames": 87,
+  "size": [
+   1160,
+   870
+  ],
+  "src": "huawei_mate80_video_system_system-feature-3-2.mp4",
+  "ss": 3.7,
+  "dur": 2.96,
+  "crop": null
+ },
+ "dino_card": {
+  "src": "huawei_mate70_video_ai_ai-feature-2.mp4",
+  "ss": 2.9,
+  "crop": [
+   978,
+   188,
+   684,
+   884
+  ]
+ }
+}

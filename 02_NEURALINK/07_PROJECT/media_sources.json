@@ -1,0 +1,466 @@
+{
+ "nl_robot_2020": {
+  "src": "commons",
+  "file": "Neuralink_Robot.jpg",
+  "dest": "04_PHOTOS/neuralink_events/nl_robot_2020.jpg",
+  "what": "Neuralink surgical robot, Aug 2020 event"
+ },
+ "nl_musk_future": {
+  "src": "commons",
+  "file": "Elon_Musk_and_the_Neuralink_Future.jpg",
+  "dest": "04_PHOTOS/neuralink_events/nl_musk_future.jpg",
+  "what": "Musk on stage with robots, 2020"
+ },
+ "nl_pig_pens": {
+  "src": "commons",
+  "file": "Neuralink_Pig_Pens.jpg",
+  "dest": "04_PHOTOS/neuralink_events/nl_pig_pens.jpg",
+  "what": "Pig pens at 2020 demo"
+ },
+ "nl_master_plan": {
+  "src": "commons",
+  "file": "Elon_Musk_presenting_the_Neuralink_master_plan.jpg",
+  "dest": "04_PHOTOS/neuralink_events/nl_master_plan.jpg",
+  "what": "Musk presenting master plan 2019"
+ },
+ "nl_unveiling": {
+  "src": "commons",
+  "file": "Elon_Musk_unveiling_Neuralink.jpg",
+  "dest": "04_PHOTOS/neuralink_events/nl_unveiling.jpg",
+  "what": "Neuralink unveiling 2019"
+ },
+ "nl_monkey_matrix": {
+  "src": "commons",
+  "file": "Monkey_in_the_Matrix_(52536941713).jpg",
+  "dest": "04_PHOTOS/neuralink_events/nl_monkey_matrix.jpg",
+  "what": "2022 show and tell"
+ },
+ "nl_noland_2024": {
+  "src": "commons",
+  "file": "Noland_Arbaugh_in_2024.jpg",
+  "dest": "04_PHOTOS/neuralink_events/nl_noland_2024.jpg",
+  "what": "Noland Arbaugh, first Neuralink participant"
+ },
+ "nl_noland_rop": {
+  "src": "commons",
+  "file": "Noland_Arbaugh_on_ROP.jpg",
+  "dest": "04_PHOTOS/neuralink_events/nl_noland_rop.jpg",
+  "what": "Noland Arbaugh, podcast still"
+ },
+ "bci_ecog_s009": {
+  "src": "commons",
+  "file": "An-Electrocorticographic-Brain-Interface-in-an-Individual-with-Tetraplegia-pone.0055344.s009.ogv",
+  "dest": "03_REAL_FOOTAGE/commons/bci_ecog_s009.ogv",
+  "what": "ECoG BCI study video"
+ },
+ "bci_ecog_s010": {
+  "src": "commons",
+  "file": "An-Electrocorticographic-Brain-Interface-in-an-Individual-with-Tetraplegia-pone.0055344.s010.ogv",
+  "dest": "03_REAL_FOOTAGE/commons/bci_ecog_s010.ogv",
+  "what": "ECoG BCI study video"
+ },
+ "bci_krol_cursor": {
+  "src": "commons",
+  "file": "Brain-computer_interface_experiment.jpg",
+  "dest": "04_PHOTOS/bci/bci_krol_cursor.jpg",
+  "what": "EEG-cap participant steering a cursor"
+ },
+ "bci_eeg_cap": {
+  "src": "commons",
+  "file": "EEG_Recording_Cap.jpg",
+  "dest": "04_PHOTOS/bci/bci_eeg_cap.jpg",
+  "what": "EEG cap close-up"
+ },
+ "nih_memory_codes": {
+  "src": "commons",
+  "file": "Cracking_the_brain's_memory_codes_(34276634144).jpg",
+  "dest": "04_PHOTOS/bci/nih_memory_codes.jpg",
+  "what": "NIH memory-codes image"
+ },
+ "dbs_render": {
+  "src": "commons",
+  "file": "Deep_brain_stimulation_in_a_Parkinson's_Disease_patient.png",
+  "dest": "04_PHOTOS/bci/dbs_render.png",
+  "what": "DBS electrodes render"
+ },
+ "mri_7t_axial": {
+  "src": "commons",
+  "file": "7_Tesla_MRI_of_the_ex_vivo_human_brain_at_100_micron_resolution_(100_micron_MRI_acquired_FA25_axial).webm",
+  "dest": "03_REAL_FOOTAGE/commons/mri_7t_axial.webm",
+  "what": "7T MRI ex vivo brain, axial"
+ },
+ "axon_flythrough": {
+  "src": "commons",
+  "file": "Axonal_nerve_fibers_in_a_brain_-_the_neural_network_that_is_us.webm",
+  "dest": "03_REAL_FOOTAGE/commons/axon_flythrough.webm",
+  "what": "Axonal fibres fly-through"
+ },
+ "dti_sagittal": {
+  "src": "commons",
+  "file": "DTI-sagittal-fibers.jpg",
+  "dest": "04_PHOTOS/brain/dti_sagittal.jpg",
+  "what": "DTI tractography sagittal"
+ },
+ "brain_jar_cbp": {
+  "src": "commons",
+  "file": "Human_Brain_Seized_in_Canada_Post_Shipment_(49565528636).jpg",
+  "dest": "04_PHOTOS/brain/brain_jar_cbp.jpg",
+  "what": "Real human brain specimen"
+ },
+ "skull_cc0": {
+  "src": "commons",
+  "file": "Cranium_-_lateral_view.jpg",
+  "dest": "04_PHOTOS/brain/skull_cc0.jpg",
+  "what": "Real skull lateral"
+ },
+ "skull_nara": {
+  "src": "commons",
+  "file": "SKULL-LEFT_SIDE_-_NARA_-_524338.jpg",
+  "dest": "04_PHOTOS/historical/skull_nara.jpg",
+  "what": "19th c. skull photograph, NARA"
+ },
+ "nih_neural_comm": {
+  "src": "commons",
+  "file": "Neural_Communication_(50531098802).jpg",
+  "dest": "04_PHOTOS/neurons/nih_neural_comm.jpg",
+  "what": "NIH neural communication"
+ },
+ "nih_mouse_neurons": {
+  "src": "commons",
+  "file": "Mouse_Neurons_(48905111662).jpg",
+  "dest": "04_PHOTOS/neurons/nih_mouse_neurons.jpg",
+  "what": "NIH mouse neurons"
+ },
+ "cortical_neurons": {
+  "src": "commons",
+  "file": "Cortical_neurons.jpg",
+  "dest": "04_PHOTOS/neurons/cortical_neurons.jpg",
+  "what": "Cortical neurons"
+ },
+ "pyramidal_40x": {
+  "src": "commons",
+  "file": "Pyramidal_hippocampal_neuron_40x.jpg",
+  "dest": "04_PHOTOS/neurons/pyramidal_40x.jpg",
+  "what": "Pyramidal neuron 40x"
+ },
+ "pyramidal_electrode": {
+  "src": "commons",
+  "file": "Pyramidal_hippocampal_neuron_with_fake_microelectrode.jpg",
+  "dest": "04_PHOTOS/neurons/pyramidal_electrode.jpg",
+  "what": "Pyramidal neuron with illustrative microelectrode"
+ },
+ "brainbow": {
+  "src": "commons",
+  "file": "Brainbow_(Smith_2007).jpg",
+  "dest": "04_PHOTOS/neurons/brainbow.jpg",
+  "what": "Brainbow neurons"
+ },
+ "cajal_cortex": {
+  "src": "commons",
+  "file": "Cajal_cortex_drawings.png",
+  "dest": "04_PHOTOS/historical/cajal_cortex.png",
+  "what": "Cajal cortex drawings"
+ },
+ "cajal_purkinje": {
+  "src": "commons",
+  "file": "PurkinjeCell.jpg",
+  "dest": "04_PHOTOS/historical/cajal_purkinje.jpg",
+  "what": "Cajal Purkinje cell"
+ },
+ "cajal_portrait": {
+  "src": "commons",
+  "file": "Santiago_Ramón_y_Cajal_(1852-1934)_portrait_(restored).jpg",
+  "dest": "04_PHOTOS/historical/cajal_portrait.jpg",
+  "what": "Cajal portrait"
+ },
+ "cajal_lab": {
+  "src": "commons",
+  "file": "Santiago_Ramón_y_Cajal_dando_cátedra_en_su_laboratorio.jpg",
+  "dest": "04_PHOTOS/historical/cajal_lab.jpg",
+  "what": "Cajal in his lab"
+ },
+ "berger_eeg": {
+  "src": "commons",
+  "file": "1st-eeg.png",
+  "dest": "04_PHOTOS/historical/berger_eeg.png",
+  "what": "First human EEG trace, Hans Berger"
+ },
+ "berger_photo": {
+  "src": "commons",
+  "file": "HansBerger_Univ_Jena.jpeg",
+  "dest": "04_PHOTOS/historical/berger_photo.jpeg",
+  "what": "Hans Berger"
+ },
+ "vesalius_brain": {
+  "src": "commons",
+  "file": "The_entire_human_brain_and_cerebellum,_by_Vesalius._Wellcome_L0003677.jpg",
+  "dest": "04_PHOTOS/historical/vesalius_brain.jpg",
+  "what": "Vesalius 1543 brain"
+ },
+ "galvani_setup": {
+  "src": "commons",
+  "file": "Galvani_frog_legs_experiment_setup.png",
+  "dest": "04_PHOTOS/historical/galvani_setup.png",
+  "what": "Galvani frog legs setup"
+ },
+ "galvani_wellcome": {
+  "src": "commons",
+  "file": "Galvani,_De_viribus_electricitatis_in_motu_muscolari_Wellcome_L0029689.jpg",
+  "dest": "04_PHOTOS/historical/galvani_wellcome.jpg",
+  "what": "Galvani De viribus plate"
+ },
+ "eniac": {
+  "src": "commons",
+  "file": "Reprogramming_ENIAC.png",
+  "dest": "04_PHOTOS/historical/eniac.png",
+  "what": "ENIAC 1946"
+ },
+ "px_profile_silhouette": {
+  "src": "pexels",
+  "page": "https://www.pexels.com/photo/38452917/",
+  "url": "https://images.pexels.com/photos/38452917/pexels-photo-38452917.jpeg",
+  "author": "Henry de Guzman",
+  "dest": "04_PHOTOS/pexels/px_profile_silhouette_38452917.jpg",
+  "what": "man profile silhouette"
+ },
+ "px_eyes_dark": {
+  "src": "pexels",
+  "page": "https://www.pexels.com/photo/18870805/",
+  "url": "https://images.pexels.com/photos/18870805/pexels-photo-18870805.jpeg",
+  "author": "Ananya Singh",
+  "dest": "04_PHOTOS/pexels/px_eyes_dark_18870805.jpg",
+  "what": "eyes in darkness"
+ },
+ "px_eye_macro": {
+  "src": "pexels",
+  "page": "https://www.pexels.com/photo/28491940/",
+  "url": "https://images.pexels.com/photos/28491940/pexels-photo-28491940.jpeg",
+  "author": "Paragi Sethia",
+  "dest": "04_PHOTOS/pexels/px_eye_macro_28491940.jpg",
+  "what": "human eye macro"
+ },
+ "px_wheelchair_laptop": {
+  "src": "pexels",
+  "page": "https://www.pexels.com/photo/6592672/",
+  "url": "https://images.pexels.com/photos/6592672/pexels-photo-6592672.jpeg",
+  "author": "Mikhail Nilov",
+  "dest": "04_PHOTOS/pexels/px_wheelchair_laptop_6592672.jpg",
+  "what": "person in wheelchair using laptop"
+ },
+ "px_surgeon_head": {
+  "src": "pexels",
+  "page": "https://www.pexels.com/photo/21810006/",
+  "url": "https://images.pexels.com/photos/21810006/pexels-photo-21810006.jpeg",
+  "author": "Isabella Mendes",
+  "dest": "04_PHOTOS/pexels/px_surgeon_head_21810006.jpg",
+  "what": "surgeon operating on head"
+ },
+ "px_brain_scan_finger": {
+  "src": "pexels",
+  "page": "https://www.pexels.com/photo/4226119/",
+  "url": "https://images.pexels.com/photos/4226119/pexels-photo-4226119.jpeg",
+  "author": "Anna Shvets",
+  "dest": "04_PHOTOS/pexels/px_brain_scan_finger_4226119.jpg",
+  "what": "finger pointing at brain scan"
+ },
+ "px_humanoid_robot": {
+  "src": "pexels",
+  "page": "https://www.pexels.com/photo/35280158/",
+  "url": "https://images.pexels.com/photos/35280158/pexels-photo-35280158.jpeg",
+  "author": "Magda Ehlers",
+  "dest": "04_PHOTOS/pexels/px_humanoid_robot_35280158.jpg",
+  "what": "humanoid robot b/w"
+ },
+ "px_old_family_photos": {
+  "src": "pexels",
+  "page": "https://www.pexels.com/photo/16865233/",
+  "url": "https://images.pexels.com/photos/16865233/pexels-photo-16865233.jpeg",
+  "author": "dilara irem",
+  "dest": "04_PHOTOS/pexels/px_old_family_photos_16865233.jpg",
+  "what": "old family photographs"
+ },
+ "pv_eye_closeup": {
+  "src": "pexels",
+  "page": "https://www.pexels.com/video/7299471/",
+  "url": "https://www.pexels.com/download/video/7299471/",
+  "author": "Kindel Media",
+  "dest": "03_REAL_FOOTAGE/pexels/pv_eye_closeup_7299471.mp4",
+  "what": "extreme close-up eye"
+ },
+ "pv_eye_move": {
+  "src": "pexels",
+  "page": "https://www.pexels.com/video/36171729/",
+  "url": "https://www.pexels.com/download/video/36171729/",
+  "author": "Fotoarte en merida",
+  "dest": "03_REAL_FOOTAGE/pexels/pv_eye_move_36171729.mp4",
+  "what": "eye movement close-up"
+ },
+ "pv_face_side": {
+  "src": "pexels",
+  "page": "https://www.pexels.com/video/7299419/",
+  "url": "https://www.pexels.com/download/video/7299419/",
+  "author": "Kindel Media",
+  "dest": "03_REAL_FOOTAGE/pexels/pv_face_side_7299419.mp4",
+  "what": "side view of a face"
+ },
+ "pv_face_dark": {
+  "src": "pexels",
+  "page": "https://www.pexels.com/video/12377242/",
+  "url": "https://www.pexels.com/download/video/12377242/",
+  "author": "Danil Lysov",
+  "dest": "03_REAL_FOOTAGE/pexels/pv_face_dark_12377242.mp4",
+  "what": "face in darkness"
+ },
+ "pv_neurosurgery": {
+  "src": "pexels",
+  "page": "https://www.pexels.com/video/31059637/",
+  "url": "https://www.pexels.com/download/video/31059637/",
+  "author": "Viktors Duks",
+  "dest": "03_REAL_FOOTAGE/pexels/pv_neurosurgery_31059637.mp4",
+  "what": "neurosurgery operating room"
+ },
+ "pv_microscope": {
+  "src": "pexels",
+  "page": "https://www.pexels.com/video/8771135/",
+  "url": "https://www.pexels.com/download/video/8771135/",
+  "author": "Gustavo Fring",
+  "dest": "03_REAL_FOOTAGE/pexels/pv_microscope_8771135.mp4",
+  "what": "man using microscope"
+ },
+ "pv_wheelchair_laptop": {
+  "src": "pexels",
+  "page": "https://www.pexels.com/video/6984797/",
+  "url": "https://www.pexels.com/download/video/6984797/",
+  "author": "SHVETS production",
+  "dest": "03_REAL_FOOTAGE/pexels/pv_wheelchair_laptop_6984797.mp4",
+  "what": "wheelchair user with laptop"
+ },
+ "pv_typing": {
+  "src": "pexels",
+  "page": "https://www.pexels.com/video/34124550/",
+  "url": "https://www.pexels.com/download/video/34124550/",
+  "author": "Melquizedeque Almeida",
+  "dest": "03_REAL_FOOTAGE/pexels/pv_typing_34124550.mp4",
+  "what": "hands typing"
+ },
+ "pv_prosthetic_hand": {
+  "src": "pexels",
+  "page": "https://www.pexels.com/video/6153725/",
+  "url": "https://www.pexels.com/download/video/6153725/",
+  "author": "cottonbro studio",
+  "dest": "03_REAL_FOOTAGE/pexels/pv_prosthetic_hand_6153725.mp4",
+  "what": "prosthetic hand moving"
+ },
+ "pv_humanoid_robot": {
+  "src": "pexels",
+  "page": "https://www.pexels.com/video/35280160/",
+  "url": "https://www.pexels.com/download/video/35280160/",
+  "author": "Magda Ehlers",
+  "dest": "03_REAL_FOOTAGE/pexels/pv_humanoid_robot_35280160.mp4",
+  "what": "humanoid robot exhibition"
+ },
+ "pv_elderly_frame": {
+  "src": "pexels",
+  "page": "https://www.pexels.com/video/8057924/",
+  "url": "https://www.pexels.com/download/video/8057924/",
+  "author": "Pavel Danilyuk",
+  "dest": "03_REAL_FOOTAGE/pexels/pv_elderly_frame_8057924.mp4",
+  "what": "elderly man with picture frame"
+ },
+ "pv_family_photos_box": {
+  "src": "pexels",
+  "page": "https://www.pexels.com/video/34393391/",
+  "url": "https://www.pexels.com/download/video/34393391/",
+  "author": "fish socks",
+  "dest": "03_REAL_FOOTAGE/pexels/pv_family_photos_box_34393391.mp4",
+  "what": "vintage family photos in a box"
+ },
+ "pv_city_night": {
+  "src": "pexels",
+  "page": "https://www.pexels.com/video/40074031/",
+  "url": "https://www.pexels.com/download/video/40074031/",
+  "author": "Altaf Shah",
+  "dest": "03_REAL_FOOTAGE/pexels/pv_city_night_40074031.mp4",
+  "what": "aerial city at night"
+ },
+ "pv_clouds_blue": {
+  "src": "pexels",
+  "page": "https://www.pexels.com/video/33705707/",
+  "url": "https://www.pexels.com/download/video/33705707/",
+  "author": "Larkkid Dung",
+  "dest": "03_REAL_FOOTAGE/pexels/pv_clouds_blue_33705707.mp4",
+  "what": "white clouds against deep blue sky"
+ },
+ "pv_clouds_golden": {
+  "src": "pexels",
+  "page": "https://www.pexels.com/video/10740623/",
+  "url": "https://www.pexels.com/download/video/10740623/",
+  "author": "I Am Sorin",
+  "dest": "03_REAL_FOOTAGE/pexels/pv_clouds_golden_10740623.mp4",
+  "what": "clouds flowing in golden sky"
+ },
+ "pv_phone_woman": {
+  "src": "pexels",
+  "page": "https://www.pexels.com/video/8066973/",
+  "url": "https://www.pexels.com/download/video/8066973/",
+  "author": "Anna Tarazevich",
+  "dest": "03_REAL_FOOTAGE/pexels/pv_phone_woman_8066973.mp4",
+  "what": "woman using a smartphone"
+ },
+ "pv_shocked_woman": {
+  "src": "pexels",
+  "page": "https://www.pexels.com/video/8627749/",
+  "url": "https://www.pexels.com/download/video/8627749/",
+  "author": "Pavel Danilyuk",
+  "dest": "03_REAL_FOOTAGE/pexels/pv_shocked_woman_8627749.mp4",
+  "what": "shocked woman"
+ },
+ "pv_thinking_woman": {
+  "src": "pexels",
+  "page": "https://www.pexels.com/video/8724310/",
+  "url": "https://www.pexels.com/download/video/8724310/",
+  "author": "Tima Miroshnichenko",
+  "dest": "03_REAL_FOOTAGE/pexels/pv_thinking_woman_8724310.mp4",
+  "what": "woman in deep thought"
+ },
+ "pv_eyes_closed_man": {
+  "src": "pexels",
+  "page": "https://www.pexels.com/video/7350049/",
+  "url": "https://www.pexels.com/download/video/7350049/",
+  "author": "Norma Mortenson",
+  "dest": "03_REAL_FOOTAGE/pexels/pv_eyes_closed_man_7350049.mp4",
+  "what": "man with eyes closed touching face"
+ },
+ "pv_ear_closeup": {
+  "src": "pexels",
+  "page": "https://www.pexels.com/video/7477554/",
+  "url": "https://www.pexels.com/download/video/7477554/",
+  "author": "Angela Roma",
+  "dest": "03_REAL_FOOTAGE/pexels/pv_ear_closeup_7477554.mp4",
+  "what": "close-up of a human ear"
+ },
+ "pv_alley_pov": {
+  "src": "pexels",
+  "page": "https://www.pexels.com/video/34653154/",
+  "url": "https://www.pexels.com/download/video/34653154/",
+  "author": "Cagatay Kozan",
+  "dest": "03_REAL_FOOTAGE/pexels/pv_alley_pov_34653154.mp4",
+  "what": "walking through a narrow alley (POV)"
+ },
+ "pv_elderly_photo": {
+  "src": "pexels",
+  "page": "https://www.pexels.com/video/7546745/",
+  "url": "https://www.pexels.com/download/video/7546745/",
+  "author": "SHVETS production",
+  "dest": "03_REAL_FOOTAGE/pexels/pv_elderly_photo_7546745.mp4",
+  "what": "elderly woman holding an old photo"
+ },
+ "pv_dark_portrait": {
+  "src": "pexels",
+  "page": "https://www.pexels.com/video/35088454/",
+  "url": "https://www.pexels.com/download/video/35088454/",
+  "author": "khezez",
+  "dest": "03_REAL_FOOTAGE/pexels/pv_dark_portrait_35088454.mp4",
+  "what": "dramatic close-up with shadow lighting"
+ }
+}

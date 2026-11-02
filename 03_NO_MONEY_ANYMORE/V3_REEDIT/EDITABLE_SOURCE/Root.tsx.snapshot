@@ -1,0 +1,21 @@
+import React from 'react';
+import {Composition} from 'remotion';
+import {ensureFonts} from './brand/fonts';
+import {FPS, H, W} from './brand/tokens';
+import {DURATION} from './episodes/no-money/ep';
+import {NoMoneyAnymore} from './episodes/no-money/NoMoneyAnymore';
+import {NoMoneyAnymoreV2} from './episodes/no-money-v2/NoMoneyAnymoreV2';
+import {NoMoneyAnymoreV3} from './episodes/no-money-v3/NoMoneyAnymoreV3';
+import {DURATION as NL_DURATION} from './episodes/neuralink/ep';
+import {NeuralinkRemake} from './episodes/neuralink/NeuralinkRemake';
+
+ensureFonts();
+
+export const RemotionRoot: React.FC = () => (
+	<>
+		<Composition id="NoMoneyAnymore" component={NoMoneyAnymore} durationInFrames={DURATION} fps={FPS} width={W} height={H} defaultProps={{withNarration: true}} />
+		<Composition id="NoMoneyAnymoreV2" component={NoMoneyAnymoreV2} durationInFrames={DURATION} fps={FPS} width={W} height={H} defaultProps={{withNarration: true}} />
+		<Composition id="NoMoneyAnymoreV3" component={NoMoneyAnymoreV3} durationInFrames={DURATION} fps={FPS} width={W} height={H} defaultProps={{withNarration: true}} />
+		<Composition id="NeuralinkRemake" component={NeuralinkRemake} durationInFrames={NL_DURATION} fps={FPS} width={W} height={H} defaultProps={{withNarration: true}} />
+	</>
+);

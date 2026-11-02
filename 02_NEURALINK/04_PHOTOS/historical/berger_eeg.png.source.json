@@ -1,0 +1,20 @@
+{
+ "page": "https://commons.wikimedia.org/wiki/File:1st-eeg.png",
+ "url": "https://upload.wikimedia.org/wikipedia/commons/7/7e/1st-eeg.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "width": 916,
+ "height": 123,
+ "mime": "image/png",
+ "licence": "Public domain",
+ "licence_url": null,
+ "author": "Hans Berger",
+ "credit": "Berger H. Über das Elektrenkephalogramm des Menchen. <i>Archives für Psychiatrie</i>. 1929; 87:527-70.",
+ "attribution_required": "false",
+ "usage_terms": "Public domain",
+ "description": "First published <a href=\"https://en.wikipedia.org/wiki/Electroencephalogram\" class=\"extiw\" title=\"w:Electroencephalogram\">Electroencephalogram</a> of a human.\n<p>This image is one of the first EEGs, appearing in Berger's First Report.  It is a portion of fig. 13 from Berger's first publication on EEG:\n</p>\n<ul><li>Berger H. Über das Elektrenkephalogramm des Menschen. <i>Archives für Psychiatrie</i>. 1929; 87:527-70.</li></ul>\n<p>This was later translated into English and republished:\n</p>\n<ul><li>Berger H. On the Electroencephalogram of Man. <i>Electroencephalogr Clin Neurophysiol</i>. 1969;Suppl 28:37-73. <span lang=\"en\" dir=\"ltr\"><a href=\"https://en.wikipedia.org/wiki/PubMed\" class=\"extiw\" title=\"en:PubMed\"><span lang=\"en\" dir=\"ltr\">PMID</span></a></span> <a rel=\"nofollow\" class=\"external text\" href=\"https://www.ncbi.nlm.nih.gov/pubmed/4188918?dopt=Abstract\">4188918</a></li></ul>\nIt appears on page 58 of the translated version. The top trace is the <a href=\"https://en.wikipedia.org/wiki/electroencephalography\" class=\"extiw\" title=\"wikipedia:electroencephalography\">EEG</a> recorded from a young boy, the bottom trace is a 10 Hz frequency reference.",
+ "key": "berger_eeg",
+ "what": "First human EEG trace, Hans Berger",
+ "final_url": "https://upload.wikimedia.org/wikipedia/commons/7/7e/1st-eeg.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+ "bytes": 93282,
+ "sha256": "b641cda778d6b3a85ee9c9c2e4ecb39a80c147bfa6c8da441f167f28ca8731d5",
+ "fetched": "2026-10-18T04:12:46"
+}

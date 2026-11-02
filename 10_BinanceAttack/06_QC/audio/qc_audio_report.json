@@ -1,0 +1,27 @@
+{
+ "video_frames": {
+  "clean": 1229,
+  "subtle": 1229,
+  "bitstreams_identical": true
+ },
+ "clean": {
+  "aac_packets_source": 1763,
+  "aac_packets_clean": 1763,
+  "packet_payloads_identical": true,
+  "packet_durations_differing": 0,
+  "decoded_pcm_md5_source": "23b6f8c785cf974571e475d2aeaa4ae3",
+  "decoded_pcm_md5_clean": "23b6f8c785cf974571e475d2aeaa4ae3",
+  "decoded_pcm_identical": true,
+  "decoded_samples": 1803200,
+  "audio_streams": 1
+ },
+ "subtle": {
+  "narration_stem_equals_original_decode": true,
+  "decoded_samples": 1807360,
+  "voice_rms_dbfs": -15.097670580963152,
+  "added_layers_rel_voice_db": -30.830930307482586,
+  "aac_coding_error_rel_voice_db": -37.9506573071181,
+  "voice_gain_estimate": 0.9974037183742643,
+  "mix_minus_voice_corr_with_added_layers": 0.9142390498191333
+ }
+}

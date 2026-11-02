@@ -1,0 +1,184 @@
+{
+ "hook_sim": {
+  "frames": 154,
+  "size": [
+   800,
+   790
+  ],
+  "src": "blog_introducing-microduck_sim2real.mp4",
+  "ss": 4.3,
+  "dur": 5.1,
+  "crop": [
+   0,
+   0,
+   800,
+   790
+  ]
+ },
+ "hook_real": {
+  "frames": 154,
+  "size": [
+   800,
+   790
+  ],
+  "src": "blog_introducing-microduck_sim2real.mp4",
+  "ss": 4.3,
+  "dur": 5.1,
+  "crop": [
+   800,
+   0,
+   800,
+   790
+  ]
+ },
+ "tr_sim": {
+  "frames": 139,
+  "size": [
+   800,
+   790
+  ],
+  "src": "blog_introducing-microduck_sim2real.mp4",
+  "ss": 10.7,
+  "dur": 4.6,
+  "crop": [
+   0,
+   0,
+   800,
+   790
+  ]
+ },
+ "tr_real": {
+  "frames": 139,
+  "size": [
+   800,
+   790
+  ],
+  "src": "blog_introducing-microduck_sim2real.mp4",
+  "ss": 10.7,
+  "dur": 4.6,
+  "crop": [
+   800,
+   0,
+   800,
+   790
+  ]
+ },
+ "sk_walk": {
+  "frames": 31,
+  "size": [
+   640,
+   480
+  ],
+  "src": "gh_microduck_rl_hero_montage.mov",
+  "ss": 0.9,
+  "dur": 1.0,
+  "crop": [
+   600,
+   200,
+   640,
+   480
+  ]
+ },
+ "sk_sit": {
+  "frames": 34,
+  "size": [
+   720,
+   540
+  ],
+  "src": "microduck_gallery_squad-standup.mp4",
+  "ss": 10.85,
+  "dur": 1.1,
+  "crop": [
+   60,
+   120,
+   720,
+   540
+  ]
+ },
+ "sk_getup": {
+  "frames": 55,
+  "size": [
+   960,
+   720
+  ],
+  "src": "microduck_launch-film.mp4",
+  "ss": 8.25,
+  "dur": 1.8,
+  "crop": [
+   740,
+   380,
+   960,
+   720
+  ]
+ },
+ "sk_skate": {
+  "frames": 48,
+  "size": [
+   960,
+   720
+  ],
+  "src": "gh_microduck_it_rolls.mp4",
+  "ss": 16.9,
+  "dur": 1.6,
+  "crop": [
+   940,
+   0,
+   960,
+   720
+  ]
+ },
+ "sk_wheels": {
+  "frames": 28,
+  "size": [
+   1440,
+   1080
+  ],
+  "src": "microduck_microduck-hero.mp4",
+  "ss": 10.95,
+  "dur": 0.9,
+  "crop": [
+   240,
+   0,
+   1440,
+   1080
+  ]
+ },
+ "cut_walk": {
+  "frames": 239,
+  "size": [
+   368,
+   562
+  ],
+  "src": "microduck_moves-portrait-alpha_walk.webm",
+  "ss": 0.0,
+  "dur": 8.0,
+  "crop": null
+ },
+ "r2_walk": {
+  "frames": 156,
+  "size": [
+   960,
+   720
+  ],
+  "src": "gh_microduck_rl_hero_montage.mov",
+  "ss": 16.0,
+  "dur": 5.2,
+  "crop": [
+   160,
+   0,
+   960,
+   720
+  ]
+ },
+ "r2_skate": {
+  "frames": 179,
+  "size": [
+   1920,
+   1080
+  ],
+  "src": "gh_microduck_it_rolls.mp4",
+  "ss": 15.3,
+  "dur": 5.95,
+  "crop": null
+ }
+}
